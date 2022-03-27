@@ -1,0 +1,19 @@
+{
+  "name":"moritzsauer/silverstripe-heroelement",
+  "description": "Hero Element",
+  "authors": [
+    {
+      "name":"Moritz Sauer",
+      "email": "info@moritz-sauer.de"
+    }
+  ],
+  "require":{
+    "silverstripe/recipe-cms": "^4",
+    "dnadesign/silverstripe-elemental": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "HeroElement\\": "src/"
+    }
+  }
+}
