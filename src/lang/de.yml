@@ -1,0 +1,8 @@
+de:
+  General:
+    TITLE: 'Titel'
+  Slide:
+    IMAGE: 'Bild'
+  Element:
+    HEROELEMENT: 'Hero Element'
+    SLIDES: 'Folien'
